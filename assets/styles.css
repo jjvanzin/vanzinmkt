@@ -145,11 +145,10 @@ p {
 }
 
 
-/* Courses*/
+/* Courses */
 
 #courses {
     padding: 3% 15% 7%;
-    background-color: #ffffff;
 }
 
 .card {
@@ -166,6 +165,32 @@ p {
 .card-text {
     padding-top: 2%;
 }
+
+
+/* Tools */
+
+#tools {
+    padding: 3% 15% 7%;
+    background-color: #ffffff;
+}
+
+.card {
+    margin: 10% 10%;
+}
+
+.card-body {
+    padding: 5% 5%;
+}
+
+.card-title {
+    padding-top: 2%;
+}
+
+.card-text {
+    padding-top: 2%;
+}
+
+
 /* Footer */
 
 .social-icon {
@@ -195,10 +220,6 @@ p {
     }
 
     .testimonial-text {
-        font-size: 2rem;
-    }
-
-    .price-text {
         font-size: 2rem;
     }
 }
