@@ -202,7 +202,11 @@ p {
 /* Media Query*/
 
 @media screen and (max-width: 768px) {
-
+    
+    .nav-logo {
+        width: 150px;
+    }
+    
     #title {
         text-align: center;
     }
