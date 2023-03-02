@@ -202,11 +202,11 @@ p {
 /* Media Query*/
 
 @media screen and (max-width: 768px) {
-    
+
     .nav-logo {
         width: 150px;
     }
-    
+
     #title {
         text-align: center;
     }
@@ -217,7 +217,7 @@ p {
 
     .section-heading {
         font: 2rem;
-    }
+    } 
 
     .title-image {
         display: none;
