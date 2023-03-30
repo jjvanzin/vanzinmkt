@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    color: 8f8f8f;
+    color: #8f8f8f;
 }
 
 
-/* Headings*/
+/* Headings */
 
 .big-heading {
     font-family: 'Montserrat', sans-serif;
@@ -46,7 +46,7 @@ p {
 
 .white-section {
     background-color: #fff;
-    color: #000000;
+    color: #222222;
 }
 
 
@@ -73,8 +73,17 @@ p {
 }
 
 .nav-logo {
+    
     width: 200px;
 }
+
+
+/* Download Buttons
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+*/
 
 
 /* Title Section */
@@ -112,7 +121,7 @@ p {
 }
 
 .icon {
-    color: #222222;
+    color: #545454;
     margin-bottom: 1rem;
 }
 
@@ -187,7 +196,7 @@ p {
 
 /* Contact */
 .btn-contact {
-    color: #00000;  
+    color: #000000;  
 }
 
 
@@ -199,6 +208,33 @@ p {
 .social-icon {
     color: #ffffff;
     margin: 20px 10px;    
+}
+
+
+/* Whatsapp */
+.whatsapp-link {
+    background-color: #0b913c;
+    border-radius: 50px;
+    bottom: 40px;
+    box-shadow: 1px 1px 2px #888;
+    color: #fff;
+    font-size: 35px;
+    height: 60px;
+    position: fixed;
+    right: 40px;
+    text-align: center;
+    text-decoration: none;
+    width: 60px;
+    z-index: 1000;
+}
+
+.whatsapp-link:hover {
+    background-color: #0ccc52;
+}
+
+.fa-whatsapp {
+    color: #fff;
+    margin-top: 12px;
 }
 
 
