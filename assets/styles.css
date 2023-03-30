@@ -40,13 +40,13 @@ p {
 
 
 .colored-section {
-    background-color: #222222;
+    background-color: #000000;
     color: #fff;
 }
 
 .white-section {
     background-color: #fff;
-    color: #222222;
+    color: #000000;
 }
 
 
@@ -131,7 +131,7 @@ p {
 /* Testimonials Section */
 
 #testimonials {
-    background-color: #222222;
+    background-color: #000000;
 }
 
 .testimonial-text {
@@ -183,7 +183,7 @@ p {
 }
 
 .card-title {
-    color: #222222;
+    color: #000000;
     padding-top: 2%;
 }
 
@@ -194,7 +194,7 @@ p {
 
 /* Contact */
 .btn-contact {
-    color: #222222;  
+    color: #00000;  
 }
 
 
